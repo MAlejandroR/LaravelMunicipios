@@ -1,0 +1,33 @@
+h1 {
+    color: darkmagenta;
+    font-size: 4em;
+    margin-left: 10%;
+}
+.container_ppal{
+    display:flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.big{
+    width: 40%;
+}
+fieldset{
+    width: 30%;
+    margin: 30px;
+    background: #ddf0a4;
+}
+legend{
+    font-size: 1.5em;
+    color:darkblue;
+}
+input[text]{
+    font-size: 1.2em;
+    color:#0D580F;
+}
+input[type=submit]{
+    font-size: 1.2em;
+    color:#212529;
+    padding: 3px;
+    margin: 3px;
+
+}
